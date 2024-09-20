@@ -1,6 +1,6 @@
 
 <h1 align="center">hello there👋, I'm RYCONE</h1>
-<h3 align="center">A passionate frontend developer from Turkiye 🇹🇷</h3>
+<h3 align="center">A passionate developer from Turkiye 🇹🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rycone&label=Profile%20views&color=000000&style=flat" alt="rycone" /> </p>
 
